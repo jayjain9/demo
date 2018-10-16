@@ -16,6 +16,6 @@ public class HomeController {
 		//ModelAndView modelAndView = new ModelAndView();
 		//modelAndView.addObject("key", "home");
 		//modelAndView.setViewName("home");
-		return "hello1";
+		return "hello2";
 	} 
 }
